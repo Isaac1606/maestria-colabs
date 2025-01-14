@@ -1,1 +1,1 @@
-# maestria-colabs
+# Masters'-colabs
